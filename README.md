@@ -1,1 +1,1 @@
-# phoneshop.github.o
+# phoneshop.github.io
